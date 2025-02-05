@@ -1,0 +1,16 @@
+.l-footer {
+  background: var(--light-blue, #c0d9d9);
+  width: 100%;
+  flex-shrink: 0;
+  margin-top: 60px;
+}
+
+.l-header {
+  display: flex;
+  width: 100%;
+  padding: 0px 52px 0px 53px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  background: var(--dark-blue, #005564);
+}

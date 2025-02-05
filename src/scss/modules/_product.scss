@@ -1,0 +1,36 @@
+.product {
+  display: flex;
+  width: 100%;
+
+  padding: 0px 40px 20px 40px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background: var(--green, #a0d187);
+}
+
+.product-title {
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Francois One";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-bottom: 20px;
+}
+
+.product-opacity {
+  display: none;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.product-text {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.product-button {
+  text-align: center;
+}
